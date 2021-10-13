@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Analysis of how McDonald's use Typography "
-date: 2021-10-13T16:50:00.000Z
+date: 2021-10-13T17:09:00.102Z
 image: ../uploads/mcdonalds-.jpg
 caption: ""
 ---
