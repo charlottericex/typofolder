@@ -4,10 +4,10 @@ footer_text: Copyright 2021 Charlotte Rice
 header_feature_image: ../uploads/jonathan-borba-8l8yl2ruusg-unsplash.jpg
 header_text: "FAST FOOD FORGERY "
 header_text_color: "#f5ff00"
-bannerheight: 20vmax
+bannerheight: 40vmax
 navbarheight: 55px
 logo: ../uploads/logo-for-website-.jpg
 favicon: /uploads/favicon.ico
-gridlayout: true
+gridlayout: false
 fixednavbar: false
 upzoom: true
