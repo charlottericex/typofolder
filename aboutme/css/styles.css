@@ -1,0 +1,17 @@
+body { 
+text-align: center;
+}
+
+h1 { text-align: center;
+  
+}
+main {
+width: 75%;
+border: solid 2px red; 
+margin: auto;
+background-color: yellow;
+}
+ img{
+     width: 50%;
+     align-items: center;
+ }
