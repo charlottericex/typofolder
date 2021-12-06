@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How High-end restaurants use design and typography in in comparison to
-  fast food chains
+title: How High-end restaurants use design and typography in comparison to fast
+  food chains
 date: 2021-12-06T13:41:00.540Z
 image: ../uploads/relax.jfif
 title_color: "#ffffff"
